@@ -680,6 +680,10 @@ p {
     font-size: 13px;
 }
 
+footer p {
+    color: #000000!important;
+}
+
 .tight-width-whitespace {
     max-width: 600px;
     margin: auto auto auto auto;
